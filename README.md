@@ -29,3 +29,9 @@ available in the report.
 
 
 ### Imperfect Results
+
+<div align="center">
+
+![alt text](image-4.png)  ![alt text](image-6.png)  ![alt text](image-5.png)
+
+</div>
