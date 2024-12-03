@@ -37,6 +37,6 @@ Overall accuracy of ≈ 88% achieved over the easy, medium and hard sets.
 
 <div align="center">
 
-![alt text](image-4.png)   ![alt text](image-5.png)
+![alt text](image-4.png)   ![alt text](image-7.png)
 
 </div>
