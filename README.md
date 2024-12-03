@@ -10,7 +10,7 @@ techniques, as well as deep learning approaches, have emerged as potential alter
 
 <div align="center">
 
-![alt text](images/image-3.png)
+![alt text](images/flow.png)
 
 </div>
 
