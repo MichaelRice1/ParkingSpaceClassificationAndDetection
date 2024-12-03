@@ -9,7 +9,9 @@ However, due to recent developments, the prominence of lightweight image process
 techniques, as well as deep learning approaches, have emerged as potential alternatives.
 
 <div align="center">
-    ![alt text](image-3.png)
+
+![alt text](image-3.png)
+
 </div>
 
 A project completed in 2 weeks alongside 6 other topics in my MSc AI course.
@@ -20,7 +22,10 @@ available in the report.
 ### Perfect Results
 
 <div align="center">
+
 ![alt text](image.png)  ![alt text](image-1.png)   ![alt text](image-2.png)
+
 </div>
+
 
 ### Imperfect Results
