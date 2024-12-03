@@ -10,7 +10,7 @@ techniques, as well as deep learning approaches, have emerged as potential alter
 
 <div align="center">
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 </div>
 
@@ -18,17 +18,17 @@ A project completed in 2 weeks alongside 6 other topics in my MSc AI course.
 
 Overall accuracy of ≈ 88% achieved over the easy, medium and hard sets.
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 ### Perfect Results
 
 <div align="center">
 
-![alt text](image.png)  ![alt text](image-1.png)   ![alt text](image-2.png)
+![alt text](images/image.png)  ![alt text](images/image-1.png)   ![alt text](images/image-2.png)
 
 </div>
 
@@ -37,6 +37,6 @@ Overall accuracy of ≈ 88% achieved over the easy, medium and hard sets.
 
 <div align="center">
 
-![alt text](image-4.png)   ![alt text](image-7.png)
+![alt text](images/image-4.png)   ![alt text](images/image-7.png)
 
 </div>
