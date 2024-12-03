@@ -1,5 +1,6 @@
 # ParkingSpaceClassificationAndDetection
-Parking Space Detection and Classification using Classical Image Processing Techniques
+
+## Parking Space Detection and Classification using Classical Image Processing Techniques
 
 Parking space occupancy detection is a tool that plays a significant role in urban 
 management systems. Legacy approaches to this task have traditionally used either
