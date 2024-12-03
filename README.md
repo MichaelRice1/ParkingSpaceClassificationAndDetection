@@ -16,8 +16,13 @@ techniques, as well as deep learning approaches, have emerged as potential alter
 
 A project completed in 2 weeks alongside 6 other topics in my MSc AI course.
 
-Overall accuracy of ≈ 88% achieved over the easy, medium and hard sets, full results
-available in the report.
+Overall accuracy of ≈ 88% achieved over the easy, medium and hard sets.
+
+![alt text](image-10.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
 
 ### Perfect Results
 
