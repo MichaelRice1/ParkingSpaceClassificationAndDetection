@@ -8,15 +8,19 @@ parking space or a ticketing system to track the number of cars in a car park.
 However, due to recent developments, the prominence of lightweight image processing 
 techniques, as well as deep learning approaches, have emerged as potential alternatives.
 
-                            ![alt text](image-3.png)
+<div align="center">
+    ![alt text](image-3.png)
+</div>
 
 A project completed in 2 weeks alongside 6 other topics in my MSc AI course.
 
-Over
+Overall accuracy of ≈ 88% achieved over the easy, medium and hard sets, full results
+available in the report.
 
 ### Perfect Results
 
-    ![alt text](image.png)  ![alt text](image-1.png)   ![alt text](image-2.png)
-
+<div align="center">
+![alt text](image.png)  ![alt text](image-1.png)   ![alt text](image-2.png)
+</div>
 
 ### Imperfect Results
